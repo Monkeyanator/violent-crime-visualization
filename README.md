@@ -7,7 +7,7 @@ This project was an excellent learning experience- it enabled me to further fami
 
 This data was then plotted using the <a href="https://developers.google.com/maps/documentation/javascript/">Google Maps Javascript API</a> on a map, and color-coded by the victim's demographic. Had I had more time for the project, I would have loved to have overlayed income demographics per zipcode over the graph, but this proved beyond the scope of my imminent abilities. 
 
-<a href="http://scikit-learn.org/stable/">Scikit-learn</a>- the library I was most terrified of going into this project- felt simple to use, assuming you understood the underlying machine learning concepts (or even if you didn't, I doubt it would have been too difficult). I was able to train a decision tree based on the latitude-longitude pairs and the victim of the given crime. The visualization of this tree can be viewed in the dot.pdf file contained in the repo. 
+<a href="http://scikit-learn.org/stable/">Scikit-learn</a>- the library I was most terrified of going into this project- felt simple to use, assuming you understood the underlying machine learning concepts (or even if you didn't, I doubt it would have been too difficult). I was able to train a decision tree based on the latitude-longitude pairs and the victim of the given crime. The visualization of this tree can be viewed in the dot.pdf file contained in the repo. The classifier did not perform notably well in preliminary cross-validation tests, which is not surprising due to the limited nature of the immediately available dataset.
 
 For future work on this dataset, I hope to incorporate census data describing the racial demographic of various areas as well as average annual income. 
 
