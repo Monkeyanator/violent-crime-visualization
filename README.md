@@ -1,4 +1,4 @@
-# Louisville violent crime visualuzation
+# Louisville violent crime visualization
 Simple data visualization for violent crimes in Louisville area. 
 
 This project was an excellent learning experience- it enabled me to further famililarize myself with Python as it relates to data science topics and techniques. 
