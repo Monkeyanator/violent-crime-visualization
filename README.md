@@ -1,4 +1,4 @@
-# monkeyanator.github.io
+# Louisville violent crime visualuzation
 Simple data visualization for violent crimes in Louisville area. 
 
 This project was an excellent learning experience- it enabled me to further famililarize myself with Python as it relates to data science topics and techniques. 
